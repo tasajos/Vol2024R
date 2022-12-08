@@ -1,0 +1,27 @@
+.table{
+    width: 100%;
+}
+.container{
+margin: 0 20%;
+}
+
+.search{
+    color: yellowgreen;
+}
+
+.edit{
+    color: sandybrown;
+}
+
+.delete {
+    color: red;
+}
+.title{
+    padding: 30px;
+    background-color: cadetblue;
+    color: yellow;
+    text-align: center;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
